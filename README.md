@@ -40,4 +40,10 @@ This project was built as a side project to demonstrate Flutter fundamentals suc
 
 ---
 
+## 📫 Connect with Me
+
+* **LinkedIn:** [Krish Jain](https://www.linkedin.com/in/krishj7725/)
+* **GitHub:** [krishj7725](https://github.com/krishj7725)
+* **Email:** [krishjain7725@gmail.com](mailto:krishjain7725@gmail.com)
+
 ⭐ If you like this project, feel free to star the repository!
